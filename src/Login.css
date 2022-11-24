@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+    /* background: #C6FFDD;  fallback for old browsers */
+/* background: -webkit-linear-gradient(to right, #f7797d, #FBD786, #C6FFDD);  Chrome 10-25, Safari 5.1-6 */
+/* background: linear-gradient(to right, #f7797d, #FBD786, #C6FFDD); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.loginBox{
+    width: 450px;
+    height: 500px;
+    background-color: rgba(255, 255, 255, 0.2);
+    position: relative;
+    border-radius: 5px;
+    top: 50px;
+    left: 450px;
+}
+#title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 200%;
+    position: relative;
+    top:10px;
+}
+input{
+    width: 240px;
+    height: 40px;
+    border-radius: 7px;
+    position: relative;
+    left: 100px;
+    border: none;
+}
+button{
+    position: relative;
+    width: 150px;
+    height: 40px;
+    font-size: larger;
+    left: 150px;
+    background-color: rgb(59, 89, 254);
+    border: none;
+    border-radius: 20px;
+}
+.icons{
+    position: relative;
+    left: 90px;
+}
+ul{
+    list-style: none;
+    display: flex;
+
+}
+li{
+    padding: 10px;
+}

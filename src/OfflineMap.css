@@ -1,0 +1,40 @@
+.hi{
+    box-sizing:40%;
+    border-radius: 20px;
+      margin: 0;
+      padding: 0;
+      position: relative;
+      /* top: 100px; */
+     /* left:700px; */
+      /* bottom:250px; */
+
+  }
+  .btn{
+    font-weight:bold;
+  }
+  .bt{
+    box-sizing:40%;
+    border-radius: 20px;
+      margin: 10px;
+      padding: 5px;
+      position: relative;
+      top: 90px;
+  }
+#image
+{
+  width:100%;
+  height: 100%;
+}
+#full_div
+{
+  width: 100%;
+  height: 100%;
+}
+#down
+{
+  background-color:gray;
+  color: black;
+  position: relative;
+  bottom: 80px;
+  left: 1100px;
+}
